@@ -1,6 +1,6 @@
 ### Hi My Friends 👋
 
-I am a software developer. I come from poor city. I have work experience as a junior fullstack developer at Sindo Lah PTE.LTD.
+I am a software developer. I come from malang city. I have work experience as a junior fullstack developer at Sindo Lah PTE.LTD.
 
 <!--
 **dickysamudra09/dickysamudra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
