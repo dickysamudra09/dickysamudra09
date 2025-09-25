@@ -4,7 +4,7 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=dickysamudra09&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dickysamudra09)
 
-Saya adalah seorang **Junior Fullstack Developer** dengan minat besar pada pengembangan aplikasi web yang efisien dan interaktif.
+Saya adalah seorang **Junior Fullstack Developer** yang bersemangat dalam membangun solusi web yang efisien dan intuitif. Berpengalaman dalam menggabungkan teknologi front-end dan back-end, saya memiliki passion untuk mengubah ide menjadi aplikasi yang fungsional dan menarik secara visual. Saat ini, saya fokus mendalami arsitektur sistem dan teknologi terbaru untuk terus meningkatkan kualitas kode saya.
 
 ---
 
