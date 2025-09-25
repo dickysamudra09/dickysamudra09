@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Grafik GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&theme=onedark)
+![Grafik GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dickysamudra09&theme=onedark)
 
 
