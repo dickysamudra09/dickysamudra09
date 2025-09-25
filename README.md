@@ -16,6 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+  # Halo, saya [Nama Anda] 👋
+  
+  [![GitHub Profile Views](https://komarev.com/ghpvc/?username=dickysamudra09&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dickysamudra09)
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true" alt="GitHub Stats" width="400" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickysamudra09&layout=compact&theme=onedark" alt="Top Languages" width="400" />
+  </p>
+
+  ### 💡 Keahlian & Teknologi
+
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,docker,kubernetes,aws" alt="Skills" />
+
+  ### 🏆 Pencapaian
+
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dickysamudra09)](https://github.com/dickysamudra09)
+
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true" alt="GitHub Stats" width="400" />
   &nbsp;&nbsp;&nbsp;
