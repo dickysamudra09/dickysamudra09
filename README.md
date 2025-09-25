@@ -22,10 +22,10 @@ Saya menggunakan kombinasi teknologi *front-end* dan *back-end* untuk membangun 
   
   ### 📊 Statistik & Kontribusi
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickysamudra09&layout=compact&theme=onedark&card_width=440&height=200" alt="Top Languages" />
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickysamudra09&theme=onedark&card_width=440&height=230" alt="Top Languages" />
     &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true&card_width=440&height=200" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true&card_width=440&height=230" alt="GitHub Stats" />
   </p>
 
 </div>
