@@ -31,9 +31,6 @@ Saya menggunakan kombinasi teknologi *front-end* dan *back-end* untuk membangun 
 
 ![Grafik Total Repositori 1 Tahun Terakhir](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dickysamudra09&hide_title=true&hide_rank=true&theme=default&period=annual)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dickysamudra09&theme=onedark" alt="GitHub Streak Stats" />
-</p>
 
 ### 🏆 Pencapaian
 
