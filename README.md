@@ -16,18 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true" alt="Grafik GitHub Stats" />
-  </a>
-  <br />
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickysamudra09&layout=compact&theme=onedark" alt="Grafik Top Languages" />
-  </a>
-  <br />
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://github-profile-trophy.vercel.app/?username=dickysamudra09" alt="Trophy GitHub" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dickysamudra09&show_icons=true&hide_rank=true&theme=onedark&include_all_commits=true" alt="GitHub Stats" width="400" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickysamudra09&layout=compact&theme=onedark" alt="Top Languages" width="400" />
+</p>
 
 
