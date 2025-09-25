@@ -29,6 +29,8 @@ Saya menggunakan kombinasi teknologi *front-end* dan *back-end* untuk membangun 
 
 </div>
 
+![Dicky Samudra Alamsyah GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=**dickysamudra09**)
+
 ### 🏆 Pencapaian
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dickysamudra09)](https://github.com/dickysamudra09)
