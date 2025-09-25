@@ -12,7 +12,7 @@ Saya adalah seorang **Junior Fullstack Developer** yang bersemangat dalam memban
 
 Saya menggunakan kombinasi teknologi *front-end* dan *back-end* untuk membangun solusi yang komprehensif.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,ci,laravel" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,laravel,docker" alt="Skills" />
 
 ---
 
