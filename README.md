@@ -1,6 +1,6 @@
 <div align="center">
   
-# Halo dari Malang! Saya [Dicky Samudra Alamsyah] 👋
+# Halo semuanya! Saya [Dicky Samudra Alamsyah] 👋
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=dickysamudra09&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dickysamudra09)
 
